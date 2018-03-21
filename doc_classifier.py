@@ -42,7 +42,6 @@ load_model = pickle.load(open("model.pickle", 'rb'))
 #docs_new = ['I love bikes', 'My computer is for sale','I own a mac','I love Hinduism']
 #docs_new = [open("test_bike_doc.txt",'r').read(),open("test_med_doc.txt",'r').read(),open("test_mac_doc.txt",'r').read()]
 count_vect._validate_vocabulary()
-count_vect._validate_vocabulary()
 tfidf_transformer = tf_idf(categories)[0]
 
 #predicting the streaming kafka messages
