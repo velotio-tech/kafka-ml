@@ -1,0 +1,48 @@
+Cancer ‘vaccine’ eliminates tumors in mice
+Activating T cells in tumors eliminated even distant metastases in mice, Stanford researchers found. Lymphoma patients are being recruited to test the technique in a clinical trial.
+
+Injecting minute amounts of two immune-stimulating agents directly into solid tumors in mice can eliminate all traces of cancer in the animals, including distant, untreated metastases, according to a study by researchers at the Stanford University School of Medicine.
+
+The approach works for many different types of cancers, including those that arise spontaneously, the study found.
+
+The researchers believe the local application of very small amounts of the agents could serve as a rapid and relatively inexpensive cancer therapy that is unlikely to cause the adverse side effects often seen with bodywide immune stimulation.
+
+“When we use these two agents together, we see the elimination of tumors all over the body,” said Ronald Levy, MD, professor of oncology. “This approach bypasses the need to identify tumor-specific immune targets and doesn’t require wholesale activation of the immune system or customization of a patient’s immune cells.”
+
+One agent is currently already approved for use in humans; the other has been tested for human use in several unrelated clinical trials. A clinical trial was launched in January to test the effect of the treatment in patients with lymphoma.
+
+Levy, who holds the Robert K. and Helen K. Summy Professorship in the School of Medicine, is the senior author of the study, which was published Jan. 31 in Science Translational Medicine. Instructor of medicine Idit Sagiv-Barfi, PhD, is the lead author.
+
+‘Amazing, bodywide effects’
+Levy is a pioneer in the field of cancer immunotherapy, in which researchers try to harness the immune system to combat cancer. Research in his laboratory led to the development of rituximab, one of the first monoclonal antibodies approved for use as an anticancer treatment in humans.
+
+Some immunotherapy approaches rely on stimulating the immune system throughout the body. Others target naturally occurring checkpoints that limit the anti-cancer activity of immune cells. Still others, like the CAR T-cell therapy recently approved to treat some types of leukemia and lymphomas, require a patient’s immune cells to be removed from the body and genetically engineered to attack the tumor cells. Many of these approaches have been successful, but they each have downsides — from difficult-to-handle side effects to high-cost and lengthy preparation or treatment times.
+
+“All of these immunotherapy advances are changing medical practice,” Levy said. “Our approach uses a one-time application of very small amounts of two agents to stimulate the immune cells only within the tumor itself. In the mice, we saw amazing, bodywide effects, including the elimination of tumors all over the animal.”
+
+Cancers often exist in a strange kind of limbo with regard to the immune system. Immune cells like T cells recognize the abnormal proteins often present on cancer cells and infiltrate to attack the tumor. However, as the tumor grows, it often devises ways to suppress the activity of the T cells.
+
+Levy’s method works to reactivate the cancer-specific T cells by injecting microgram amounts of two agents directly into the tumor site. (A microgram is one-millionth of a gram). One, a short stretch of DNA called a CpG oligonucleotide, works with other nearby immune cells to amplify the expression of an activating receptor called OX40 on the surface of the T cells. The other, an antibody that binds to OX40, activates the T cells to lead the charge against the cancer cells. Because the two agents are injected directly into the tumor, only T cells that have infiltrated it are activated. In effect, these T cells are “prescreened” by the body to recognize only cancer-specific proteins.
+
+Cancer-destroying rangers
+Some of these tumor-specific, activated T cells then leave the original tumor to find and destroy other identical tumors throughout the body.
+
+The approach worked startlingly well in laboratory mice with transplanted mouse lymphoma tumors in two sites on their bodies. Injecting one tumor site with the two agents caused the regression not just of the treated tumor, but also of the second, untreated tumor. In this way, 87 of 90 mice were cured of the cancer. Although the cancer recurred in three of the mice, the tumors again regressed after a second treatment. The researchers saw similar results in mice bearing breast, colon and melanoma tumors.
+
+Mice genetically engineered to spontaneously develop breast cancers in all 10 of their mammary pads also responded to the treatment. Treating the first tumor that arose often prevented the occurrence of future tumors and significantly increased the animals’ life span, the researchers found.
+
+Finally, Sagiv-Barfi explored the specificity of the T cells by transplanting two types of tumors into the mice. She transplanted the same lymphoma cancer cells in two locations, and she transplanted a colon cancer cell line in a third location. Treatment of one of the lymphoma sites caused the regression of both lymphoma tumors but did not affect the growth of the colon cancer cells.
+
+“This is a very targeted approach,” Levy said. “Only the tumor that shares the protein targets displayed by the treated site is affected. We’re attacking specific targets without having to identify exactly what proteins the T cells are recognizing.”
+
+The current clinical trial is expected to recruit about 15 patients with low-grade lymphoma. If successful, Levy believes the treatment could be useful for many tumor types. He envisions a future in which clinicians inject the two agents into solid tumors in humans prior to surgical removal of the cancer as a way to prevent recurrence due to unidentified metastases or lingering cancer cells, or even to head off the development of future tumors that arise due to genetic mutations like BRCA1 and 2.
+
+“I don’t think there’s a limit to the type of tumor we could potentially treat, as long as it has been infiltrated by the immune system,” Levy said.
+
+The work is an example of Stanford Medicine’s focus on precision health, the goal of which is to anticipate and prevent disease in the healthy and precisely diagnose and treat disease in the ill.
+
+The study’s other Stanford co-authors are senior research assistant and lab manager Debra Czerwinski; professor of medicine Shoshana Levy, PhD; postdoctoral scholar Israt Alam, PhD; graduate student Aaron Mayer; and professor of radiology Sanjiv Gambhir, MD, PhD.
+
+Levy is a member of the Stanford Cancer Institute and Stanford Bio-X.
+
+Gambhir is the founder and equity holder in CellSight Inc., which develops and translates multimodality strategies to image cell trafficking and transplantation.

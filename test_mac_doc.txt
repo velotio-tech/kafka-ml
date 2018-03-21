@@ -1,0 +1,13 @@
+Apple is working hard on the next major versions of its operating systems — macOS, iOS, tvOS and watchOS. While iOS is the big elephant in the room, the most intriguing new feature could be for macOS. According to reports from Bloomberg and Axios, Apple will let you run iPad apps.
+
+Yesterday, Axios first reported that Apple’s senior vice president of Software Engineering Craig Federighi announced a revised plan for iOS 12. Apple usually unveils the new version of iOS at its WWDC developer conference in June. It then goes through a few months of beta testing and gets released in September.
+
+And this time, Axios has heard that Apple is delaying some features to work on quality issues. Many customers have been complaining about bugs in iOS 11, such as weird autocorrect bugs, messages arriving out of order, the Calculator app not calculating properly and more.
+
+That’s why some rumored features have been pushed back to iOS 13 in 2019. Those features include a home screen redesign, CarPlay improvements, Mail and Photos updates.
+
+Instead, you can expect a rock-solid iOS 12. There will still be new features, but not as many as expected. iOS 12 could feature better parental controls, a FaceTime update. There could be more augmented reality features too.
+
+Some of those delays will also affect the next macOS update, such as the update to the Photos app for instance. But Bloomberg first reported that Apple is still on track to let you use iOS apps on your Mac. Axios confirmed those plans, saying that iPad apps in particular should run on macOS.
+
+This could represent a huge change for the Mac platform with a big number of new apps hitting the Mac App Store. It’s still unclear whether Apple will optimize the user interface of those apps on the Mac. Using a touch screen is very different from using a mouse. But iPad app developers can expect to reach a lot more users.
